@@ -22,3 +22,13 @@ Turtle WoW addon for managing and querying game database information. Provides t
 - Uses global namespace `TurtleData`
 - Requires database tables to be populated
 
+## Development
+
+### Branch Names
+**No code changes are needed if you rename a branch.** This repository does not contain:
+- Hardcoded branch references in code
+- CI/CD workflows that depend on specific branch names
+- Build scripts with branch-specific logic
+- Documentation links pointing to specific branches
+
+You can safely rename any branch without modifying the codebase.
