@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: TurtleData
+## Author: FeLsop
+## Version: 0.1.0
+## Notes: Turtle WoW data explorer (scaffold)
+## SavedVariables: TurtleDataDB
+## SavedVariablesPerCharacter: TurtleDataCharDB
+
+TurtleData.lua
